@@ -1,1 +1,3 @@
 Hello GIT!
+
+Äpple Ducks
